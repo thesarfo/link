@@ -1,0 +1,6 @@
+{
+    "name": "link",
+    "version": "0.1.0",
+    "description": "Convenient interface to manipulate files",
+    "scripts": [ "link.sh" ]
+}
